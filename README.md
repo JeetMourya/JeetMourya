@@ -1,9 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Jeet Mourya Banner" width="100%">
 </p>
-<p align="center">
-  <img src="./banner.png" width="100%">
-</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Jeet Mourya
